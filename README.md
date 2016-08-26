@@ -9,3 +9,14 @@ Exploratory data analysis and convolutional neural network implementation for th
 - Report.pdf
 - notebook.ipynp - Runnable Jupyter Notebook, last executed on full dataset.
 - notebook.html - HTML output of notebook.
+
+## Python Libraries
+
+- Keras
+- Theano
+- OpenCV
+
+## Neural Network Architectures
+
+- VGG-16 https://arxiv.org/pdf/1409.1556
+- U-Net https://arxiv.org/pdf/1505.04597
